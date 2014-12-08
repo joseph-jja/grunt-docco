@@ -94,7 +94,7 @@ module.exports = function ( grunt ) {
                     } );
                 } );
 
-                result = underscore.template( idx, {
+                result = underscore.template(idx)( {
                     title: 'Index',
                     css: 'docco.css',
                     urls: urls
