@@ -43,6 +43,12 @@ docco: {
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [grunt][grunt].
 
 ## Release History
+* 0.1.5 bump up package json for test fix
+* 0.1.4 update docco and package version
+* 0.1.3 change underscore version and bump up package version
+* 0.1.2 update version to 0.1.2
+* 0.1.1 update package version
+### project forked
 * 0.3.3: Update to use latest official docco version
 * 0.3.2: Update to use newer commit of development docco
 * 0.3.1: Update to use #development docco - fixes several issues with multiple runs.
