@@ -15,7 +15,10 @@ module.exports = function(grunt) {
     docco: {
       tests: {
         src: ['test/**/*.js', 'test/**/*.coffee'],
-        dest: "docs/"
+        dest: "docs/",
+        options: {
+            output: 'docs/'
+        }
       },
       'custom-css-test': {
         src: ['test/**/*.js'],
