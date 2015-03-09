@@ -48,6 +48,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 * 0.1.3 change underscore version and bump up package version
 * 0.1.2 update version to 0.1.2
 * 0.1.1 update package version
+
 ### project forked
 * 0.3.3: Update to use latest official docco version
 * 0.3.2: Update to use newer commit of development docco
